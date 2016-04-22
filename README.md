@@ -1,6 +1,8 @@
 ## Final Project for the Coursera "Getting and Cleaning Data" Course
+#Repo Contents
 This repo contains all required elements of the final project of the "getting and cleaning data" coursera course. 
 
+#R Code Explanation
 Step 1: This step reads in the data from both tables and merges it into one dataset for future analysis. 
 
 Step 2: This step reads in all features and only retains features that are either means or standard deviations. 
