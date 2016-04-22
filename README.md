@@ -1,4 +1,4 @@
-# getting-and-cleaning-data-final-project
+## Final Project for the Coursera "Getting and Cleaning Data" Course
 This repo contains all required elements of the final project of the "getting and cleaning data" coursera course. 
 
 Step 1: This step reads in the data from both tables and merges it into one dataset for future analysis. 
